@@ -54,6 +54,6 @@ weasyprint → convert HTML → PDF
 
 Final Output
 The output is:
-✔ optimized Markdown resume
-✔ structured HTML resume
-✔ final polished PDF resume
+optimized Markdown resume
+structured HTML resume
+final polished PDF resume
