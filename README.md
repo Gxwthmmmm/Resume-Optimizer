@@ -56,14 +56,23 @@ ATS compatibility improvement tools
 Technologies Used
 
 Python
+
 pdfplumber → extract text from PDFs
+
 mammoth → convert DOCX to text
+
 regex → extract info (email, phone, headings)
+
 HTML + CSS → resume layout
+
 weasyprint → convert HTML → PDF
+
 
 This will be the final output
 
 optimized Markdown resume
+
 structured HTML resume
+
 final polished PDF resume
+
