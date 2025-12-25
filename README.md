@@ -46,6 +46,7 @@ single-page
 Objective of the Project is to automatically convert unformatted resumes into a clean, structured, professionally styled resume PDF using Python.This reduces manual formatting and helps students/freshers quickly generate high-quality resumes.
 
 Where This Project Can Be Used:
+
 university placement cells
 resume builders
 job portal integrations
@@ -53,6 +54,7 @@ student project submissions
 ATS compatibility improvement tools
 
 Technologies Used
+
 Python
 pdfplumber → extract text from PDFs
 mammoth → convert DOCX to text
@@ -60,8 +62,8 @@ regex → extract info (email, phone, headings)
 HTML + CSS → resume layout
 weasyprint → convert HTML → PDF
 
-Final Output
-The output is:
+This will be the final output
+
 optimized Markdown resume
 structured HTML resume
 final polished PDF resume
